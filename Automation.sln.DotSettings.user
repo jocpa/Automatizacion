@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83a99ed9_002D7bab_002D4ac6_002D8988_002Dbaa68cb8708c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AgendarCitaTestFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::99B59778-7F54-41F5-A3B7-05369D3B6742::net6.0::Automation.Features.AgendarCitaTestFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a9483d60_002D179f_002D47c3_002Dae65_002D2b4d290af747/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Automation&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/tribalworldwide/Desktop/PruebasBasicas/Automation/Automation" Presentation="&amp;lt;Automation&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a9d1d11d_002Deb49_002D42ee_002Dbe2a_002Ddd4b665a6487/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AgendarCitaTestFeature #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::99B59778-7F54-41F5-A3B7-05369D3B6742::net6.0::Automation.Features.AgendarCitaTestFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e21cd121_002Dfa46_002D401d_002D9bc8_002D27c1b8b10f72/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalcularFinanciamientoParaUnInmueble" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::99B59778-7F54-41F5-A3B7-05369D3B6742::net6.0::Automation.Features.CalculadoraTestFeature.CalcularFinanciamientoParaUnInmueble&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
